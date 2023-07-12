@@ -10,6 +10,8 @@
 
 - ⚡ Fun fact **Sometime i get less errors**
 
+[![Md. Rasel Mandol's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raselmandol&theme=merko)](https://github.com/raselmandol?tab=repositories)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/raselmandol1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raselmandol" height="30" width="40" /></a>

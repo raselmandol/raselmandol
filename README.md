@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Rasel Mandol</h1>
 <h3 align="center">a passionate noob programmer</h3>
-- 🔭 I’m currently working on [gptDesk](https://github.com/raselmandol/gptDesk)
+- 🔭 I’m currently working on [https://github.com/raselmandol/gptDesk](https://github.com/raselmandol/gptDesk)
 
 - 🌱 I’m currently learning **Data Science**
 

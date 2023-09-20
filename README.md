@@ -21,4 +21,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raselmandol&layout=compact&hide=javascript,html,css,PowerShell)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raselmandol&repo=KOELbit-RvA)](https://github.com/raselmandol/KOELbit-RvA)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raselmandol&repo=comprehensive-rust-bn)](https://github.com/raselmandol/comprehensive-rust-bn)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raselmandol&repo=comprehensive-rust-bn-desktop)](https://github.com/raselmandol/comprehensive-rust-bn-desktop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=raselmandol&repo=ubGUI)](https://github.com/raselmandol/ubGUI)

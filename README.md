@@ -5,7 +5,7 @@
 #### About me✨ 
 
 * I'm a college student who relishes navigating through challenging situations that many find daunting. I have a passion for writing code and continuously testing its functionality.
-* I use Rust, C, Cpp, C#, PHP programming languages. My favorite programming languages are C++ and C#. Now I am delving deep into the intricacies of Dear ImGui.
+* I use Rust, C, Cpp, C#, PHP programming languages. My favourite programming languages are C++ and C#. Now I am delving deep into the intricacies of Dear ImGui.
 * My interests lie in concurrent programming, network programming, and the development of useful tools.
 
 #### Find me👀

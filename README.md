@@ -3,9 +3,6 @@
 ![:name](https://count.getloli.com/get/@:raselmandol?theme=rule34)
 
 
-#### Important Read:
-
-Hi everyone, I have decided to make my GitHub account an archive forever. I can't contribute anymore; I'm dealing with something that led me to take this decision. I'm sorry, guys. My other social accounts and my website (raselmandol.com) will remain closed.
 
 #### About me✨ 
 

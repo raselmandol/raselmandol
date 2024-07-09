@@ -12,6 +12,7 @@
 
 #### Find me👀
 
+* Website: <https://raselm.me>
 * Github: <https://github.com/raselmandol>
 * Email: <raselm@duck.com>
 * Discord: `crazynoob#9847`

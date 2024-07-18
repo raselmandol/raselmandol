@@ -26,7 +26,7 @@
 
 
 ![Night Cruising's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raselmandol&show_icons=true&count_private=true)
-[![Top Langs](https://github-readme-stats-self-gules.vercel.app/api/top-langs/?username=raselmandol&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-self-gules.vercel.app/api/top-langs/?username=raselmandol&layout=compact&hide=javascript,html,css,PowerShell)](https://github.com/raselmandol)
 [![Readme Card](https://github-readme-stats-self-gules.vercel.app/api/pin/?username=raselmandol&repo=KOELbit-RvA)](https://github.com/raselmandol/KOELbit-RvA)
 [![Readme Card](https://github-readme-stats-self-gules.vercel.app/api/pin/?username=raselmandol&repo=ubGUI)](https://github.com/raselmandol/ubGUI)
 [![Readme Card](https://github-readme-stats-self-gules.vercel.app/api/pin/?username=raselmandol&repo=comprehensive-rust-bn)](https://github.com/raselmandol/comprehensive-rust-bn)

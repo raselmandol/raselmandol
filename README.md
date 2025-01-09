@@ -11,7 +11,7 @@
 * I'm a college student who relishes navigating through challenging situations. I have a passion for writing code and continuously testing its functionality.
 * I use C++, Python, C, Rust, C#, PHP programming languages.
 * I am actively involved in deep learning projects, focusing on integrating machine learning models with software applications.
-* My interests lie in concurrent programming, network programming, and the development of useful tools.
+* My interests lie in CV/ML, concurrent programming, network programming, and the development of useful tools.
 
 #### Find me👀
 

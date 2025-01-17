@@ -4,8 +4,10 @@
     <img src="https://count.getloli.com/get/@:raselmandol?theme=rule34" alt="profile-views-raselmandol">
 </p>
 
-![](https://komarev.com/ghpvc/?username=raselmandol)  received since January 2025.
-
+![](https://komarev.com/ghpvc/?username=raselmandol)  
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=raselmandol" alt="profile-views-raselmandol">
+received since January 2025. </div>
 #### About me✨ 
 
 * I'm a college student who relishes navigating through challenging situations. I have a passion for writing code and continuously testing its functionality.

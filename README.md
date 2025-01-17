@@ -3,9 +3,9 @@
 <p align="center">
     <img src="https://count.getloli.com/get/@:raselmandol?theme=rule34" alt="profile-views-raselmandol">
 </p>
-
-![](https://komarev.com/ghpvc/?username=raselmandol)
-
+<p align="center">
+![](https://komarev.com/ghpvc/?username=raselmandol)  received since January 2025.
+</p> 
 #### About me✨ 
 
 * I'm a college student who relishes navigating through challenging situations. I have a passion for writing code and continuously testing its functionality.

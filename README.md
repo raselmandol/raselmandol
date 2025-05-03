@@ -21,10 +21,10 @@
 * Website: <https://raselm.me>
 * Email: <raselm@duck.com>
 * Discord: `crazynoob#9847`
-* Matrix/Element: ~~ `@raselm:matrix.org` ~~
-* Keybase: ~~ <https://keybase.io/raselm> ~~
-* Stack Overflow(new acc): ~~ <https://stackoverflow.com/users/22455902/raselmandol> ~~
-* Reddit(new acc): ~~ <https://www.reddit.com/user/raselmandol> ~~
+* Matrix/Element: ~~`@raselm:matrix.org`~~
+* Keybase: ~~<https://keybase.io/raselm>~~
+* Stack Overflow(new acc): ~~<https://stackoverflow.com/users/22455902/raselmandol>~~
+* Reddit(new acc): ~~<https://www.reddit.com/user/raselmandol>~~
 
 ![Night Cruising's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raselmandol&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats-self-gules.vercel.app/api/top-langs/?username=raselmandol&layout=compact&hide=javascript,html,css,PowerShell)](https://github.com/raselmandol)

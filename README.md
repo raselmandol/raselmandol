@@ -25,7 +25,6 @@
 * Stack Overflow(new acc): <https://stackoverflow.com/users/30438446/rasel>
 * Reddit(new acc): <https://www.reddit.com/user/rmandol>
 * LinkedIn: `raselmandol`
-* Linktree: <https://linktr.ee/raselmandol>
 
 ![Night Cruising's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raselmandol&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats-self-gules.vercel.app/api/top-langs/?username=raselmandol&layout=compact&hide=javascript,html,css,PowerShell)](https://github.com/raselmandol)
